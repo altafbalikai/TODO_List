@@ -3,8 +3,8 @@ Features
 User Registration: New users can register with the application.
 
 User Login: Registered users can log in to access the application.
-          username = user
-          password = user@12345
+          username = "user", 
+          password = "user@12345".
           
 Task Creation: Users can create tasks with titles and descriptions.
 
