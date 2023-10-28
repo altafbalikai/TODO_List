@@ -18,7 +18,7 @@ Task Completion: Users can mark tasks as completed, which are then displayed wit
 
 This Django application allows users to register, login, create tasks with titles and descriptions, view a list of all tasks, and mark tasks as completed.
 
-## Installation
+# Installation
 
 1. Make sure you have Python and Django installed on your system.
 
@@ -27,7 +27,7 @@ This Django application allows users to register, login, create tasks with title
    ```bash
    git clone <repository_url>
    
-#Running the App
+# Running the App
 
 1. Run database migrations: python manage.py migrate
 
